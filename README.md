@@ -1,1 +1,1 @@
-Rscript predict.R species_in hangzhou_train.y hangzhou_test.y zhengzhou_test.y xinjiang_test.y seed
+Rscript predict.github.R species_in hangzhou_train.y hangzhou_test.y zhengzhou_test.y xinjiang_test.y 100
